@@ -40,5 +40,9 @@ public class LoginPage {
 
     }
 
+    public void navigationToOperationMenu(){
+
+    }
+
 
 }
